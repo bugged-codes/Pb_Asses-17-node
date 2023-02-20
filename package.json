@@ -1,0 +1,24 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "1st Node handson on creating HTTP-Server and implementing routing, and sending response in HTML and JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugged-codes/Pb_Asses-17-node.git"
+  },
+  "keywords": [
+    "http",
+    "server",
+    "back-end"
+  ],
+  "author": "Vipul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bugged-codes/Pb_Asses-17-node/issues"
+  },
+  "homepage": "https://github.com/bugged-codes/Pb_Asses-17-node#readme"
+}
